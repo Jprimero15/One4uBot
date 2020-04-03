@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/MoveAngel/One4uBot",
+  "repository": "https://github.com/Jprimero15/One4uBot",
   "website": "https://telegra.ph/How-to-host-a-Telegram-Userbot-11-02",
-  "success_url": "https://t.me/userbotindo",
+  "success_url": "https://t.me/GhostHunterz_bot",
   "stack": "container",
   "env": {
     "API_KEY": {
